@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+  overflow-x: hidden;
+}
+
+img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background-position: center;
+}
+
+h2,
+h3 {
+  text-transform: capitalize;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+.quote {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.btn {
+  padding: 0.5rem;
+}
+
+.btn {
+  position: absolute;
+  top: 40%;
+}
+.btn-left {
+  right: 80%;
+}
+
+.btn-right {
+  right: 20%;
+}
